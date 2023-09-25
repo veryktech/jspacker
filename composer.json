@@ -1,0 +1,7 @@
+{
+    "name": "avzer/jspacker",
+    "license": "LGPL 2.1",
+    "autoload": {
+        "files": ["JavaScriptPacker.php"]
+    }
+}
